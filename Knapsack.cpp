@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
  bool cmpp(const pair<int,int>&m1,const pair<int,int> &m2){
